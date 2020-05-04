@@ -1,0 +1,117 @@
+C:\Users\Jonathan\source\repos\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.deps.json
+C:\Users\Jonathan\source\repos\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\source\repos\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csprojAssemblyReference.cache
+C:\Users\Jonathan\source\repos\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfoInputs.cache
+C:\Users\Jonathan\source\repos\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfo.cs
+C:\Users\Jonathan\source\repos\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.deps.json
+C:\Users\Jonathan\Desktop\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\Desktop\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.deps.json
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.deps.json
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.deps.json
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.deps.json
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.deps.json
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.deps.json
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.deps.json
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.deps.json
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.pdb

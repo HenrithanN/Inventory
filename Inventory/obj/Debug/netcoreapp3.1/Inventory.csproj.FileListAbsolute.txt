@@ -1,0 +1,1342 @@
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.exe
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.deps.json
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.json
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.dev.json
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jonathan\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csprojAssemblyReference.cache
+C:\Users\Jonathan\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonathan\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfoInputs.cache
+C:\Users\Jonathan\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfo.cs
+C:\Users\Jonathan\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.RazorTargetAssemblyInfo.cache
+C:\Users\Jonathan\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\staticwebassets\Inventory.StaticWebAssets.Manifest.cache
+C:\Users\Jonathan\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\staticwebassets\Inventory.StaticWebAssets.xml
+C:\Users\Jonathan\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jonathan\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.genruntimeconfig.cache
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dados.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Servico.dll
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Servico.pdb
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dados.pdb
+C:\Users\Jonathan\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.exe
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.deps.json
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dados.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Servico.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Servico.pdb
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dados.pdb
+C:\Users\Jonathan\Desktop\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.RazorTargetAssemblyInfo.cache
+C:\Users\Jonathan\Desktop\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Inventory\Inventory\obj\Debug\netcoreapp3.1\staticwebassets\Inventory.StaticWebAssets.Manifest.cache
+C:\Users\Jonathan\Desktop\Inventory\Inventory\obj\Debug\netcoreapp3.1\staticwebassets\Inventory.StaticWebAssets.xml
+C:\Users\Jonathan\Desktop\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jonathan\Desktop\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.exe
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.deps.json
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dados.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Servico.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Servico.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dados.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.RazorTargetAssemblyInfo.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\obj\Debug\netcoreapp3.1\staticwebassets\Inventory.StaticWebAssets.Manifest.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\obj\Debug\netcoreapp3.1\staticwebassets\Inventory.StaticWebAssets.xml
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.exe
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.deps.json
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dados.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Servico.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Servico.pdb
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dados.pdb
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.RazorTargetAssemblyInfo.cache
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\staticwebassets\Inventory.StaticWebAssets.Manifest.cache
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\staticwebassets\Inventory.StaticWebAssets.xml
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Implementando Swagger\Inventory 2.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.exe
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.deps.json
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dados.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Servico.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Servico.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dados.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.RazorTargetAssemblyInfo.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\staticwebassets\Inventory.StaticWebAssets.Manifest.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\staticwebassets\Inventory.StaticWebAssets.xml
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 3.0\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.exe
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.deps.json
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dados.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Servico.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Servico.pdb
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dados.pdb
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.RazorTargetAssemblyInfo.cache
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\obj\Debug\netcoreapp3.1\staticwebassets\Inventory.StaticWebAssets.Manifest.cache
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\obj\Debug\netcoreapp3.1\staticwebassets\Inventory.StaticWebAssets.xml
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jonathan\Desktop\Nova pasta (2)\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.exe
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.deps.json
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dados.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Servico.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Servico.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dados.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.RazorTargetAssemblyInfo.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\obj\Debug\netcoreapp3.1\staticwebassets\Inventory.StaticWebAssets.Manifest.cache
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\obj\Debug\netcoreapp3.1\staticwebassets\Inventory.StaticWebAssets.xml
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jonathan\Desktop\Faculdade\Laboratorio de Desenvolvimento de Sistemas 2\Inventory\Inventory 4.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dados.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Servico.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Servico.pdb
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dados.pdb
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.RazorTargetAssemblyInfo.cache
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.exe
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.deps.json
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\staticwebassets\Inventory.StaticWebAssets.Manifest.cache
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\staticwebassets\Inventory.StaticWebAssets.xml
+C:\Users\Jonathan\Desktop\Inventory Supremo\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.exe
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.deps.json
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dados.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Servico.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Servico.pdb
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dados.pdb
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.RazorTargetAssemblyInfo.cache
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\staticwebassets\Inventory.StaticWebAssets.Manifest.cache
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\staticwebassets\Inventory.StaticWebAssets.xml
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jonathan\Desktop\Inventory Supremo - Copia\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.exe
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.deps.json
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dados.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Servico.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Servico.pdb
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\bin\Debug\netcoreapp3.1\Inventory.Dados.pdb
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.RazorTargetAssemblyInfo.cache
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\staticwebassets\Inventory.StaticWebAssets.Manifest.cache
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\staticwebassets\Inventory.StaticWebAssets.xml
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.genruntimeconfig.cache

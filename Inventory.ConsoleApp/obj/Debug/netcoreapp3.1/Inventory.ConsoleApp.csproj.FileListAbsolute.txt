@@ -1,0 +1,13 @@
+C:\Users\Jonathan\Desktop\Inventory\Inventory.ConsoleApp\bin\Debug\netcoreapp3.1\Inventory.ConsoleApp.exe
+C:\Users\Jonathan\Desktop\Inventory\Inventory.ConsoleApp\bin\Debug\netcoreapp3.1\Inventory.ConsoleApp.deps.json
+C:\Users\Jonathan\Desktop\Inventory\Inventory.ConsoleApp\bin\Debug\netcoreapp3.1\Inventory.ConsoleApp.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Inventory\Inventory.ConsoleApp\bin\Debug\netcoreapp3.1\Inventory.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Jonathan\Desktop\Inventory\Inventory.ConsoleApp\bin\Debug\netcoreapp3.1\Inventory.ConsoleApp.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory.ConsoleApp\bin\Debug\netcoreapp3.1\Inventory.ConsoleApp.pdb
+C:\Users\Jonathan\Desktop\Inventory\Inventory.ConsoleApp\obj\Debug\netcoreapp3.1\Inventory.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Inventory\Inventory.ConsoleApp\obj\Debug\netcoreapp3.1\Inventory.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Inventory\Inventory.ConsoleApp\obj\Debug\netcoreapp3.1\Inventory.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Inventory\Inventory.ConsoleApp\obj\Debug\netcoreapp3.1\Inventory.ConsoleApp.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Inventory\Inventory.ConsoleApp\obj\Debug\netcoreapp3.1\Inventory.ConsoleApp.dll
+C:\Users\Jonathan\Desktop\Inventory\Inventory.ConsoleApp\obj\Debug\netcoreapp3.1\Inventory.ConsoleApp.pdb
+C:\Users\Jonathan\Desktop\Inventory\Inventory.ConsoleApp\obj\Debug\netcoreapp3.1\Inventory.ConsoleApp.genruntimeconfig.cache

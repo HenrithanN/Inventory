@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Inventory.Dominio/1.0.0": {
+        "dependencies": {
+          "Inventory.Comum": "1.0.0"
+        },
+        "runtime": {
+          "Inventory.Dominio.dll": {}
+        }
+      },
+      "Inventory.Comum/1.0.0": {
+        "runtime": {
+          "Inventory.Comum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inventory.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Inventory.Comum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
