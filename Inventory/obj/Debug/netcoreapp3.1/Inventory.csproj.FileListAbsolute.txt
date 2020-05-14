@@ -1340,3 +1340,11 @@ C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1
 C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.dll
 C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.pdb
 C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory\obj\Debug\netcoreapp3.1\Inventory.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.pdb

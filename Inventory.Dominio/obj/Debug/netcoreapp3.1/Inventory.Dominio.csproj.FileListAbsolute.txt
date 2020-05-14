@@ -115,3 +115,15 @@ C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory.Dominio\obj\Debug\netco
 C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CopyComplete
 C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.dll
 C:\Users\Jonathan\Desktop\Caraio\Inventory 5.0\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.deps.json
+C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Dominio.pdb
+C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory.Dominio\bin\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.csproj.CopyComplete
+C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.dll
+C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory.Dominio\obj\Debug\netcoreapp3.1\Inventory.Dominio.pdb
