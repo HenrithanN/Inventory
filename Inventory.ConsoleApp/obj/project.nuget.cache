@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jkAnZYZTBXxo6601P89A5e5/59Hdinq2VrlzNvJX+LTX3HbrnRUzhzpS9gQhYJeDGkXkHSMDBrzeuzNrp6fPzw==",
+  "dgSpecHash": "zUgrV/CPyP2AERCtqFMfiynMwPPeYhYbtbDUMUumx3KH1/52xIn2FjlIiqYPC11IxopF3ojFmUH80x4zSx/u2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jonathan\\Desktop\\Caraio\\Inventory 5.0\\Inventory.ConsoleApp\\Inventory.ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.ConsoleApp\\Inventory.ConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

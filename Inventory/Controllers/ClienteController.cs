@@ -10,8 +10,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Inventory.Controllers
 {
-
-    [Route("[controller]")]
+    //Liberado Cors
+    [Route("[controller]")]Attribute
     [ApiController]
     public class ClienteController : ControllerBase
     {

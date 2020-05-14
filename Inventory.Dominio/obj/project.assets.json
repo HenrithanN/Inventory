@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jonathan\\Desktop\\Caraio\\Inventory 5.0\\Inventory.Dominio\\Inventory.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.Dominio\\Inventory.Dominio.csproj",
       "projectName": "Inventory.Dominio",
-      "projectPath": "C:\\Users\\Jonathan\\Desktop\\Caraio\\Inventory 5.0\\Inventory.Dominio\\Inventory.Dominio.csproj",
+      "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.Dominio\\Inventory.Dominio.csproj",
       "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jonathan\\Desktop\\Caraio\\Inventory 5.0\\Inventory.Dominio\\obj\\",
+      "outputPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,8 +56,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Jonathan\\Desktop\\Caraio\\Inventory 5.0\\Inventory.Comum\\Inventory.Comum.csproj": {
-              "projectPath": "C:\\Users\\Jonathan\\Desktop\\Caraio\\Inventory 5.0\\Inventory.Comum\\Inventory.Comum.csproj"
+            "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.Comum\\Inventory.Comum.csproj": {
+              "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.Comum\\Inventory.Comum.csproj"
             }
           }
         }

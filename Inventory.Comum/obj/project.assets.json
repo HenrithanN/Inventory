@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jonathan\\Desktop\\Caraio\\Inventory 5.0\\Inventory.Comum\\Inventory.Comum.csproj",
+      "projectUniqueName": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.Comum\\Inventory.Comum.csproj",
       "projectName": "Inventory.Comum",
-      "projectPath": "C:\\Users\\Jonathan\\Desktop\\Caraio\\Inventory 5.0\\Inventory.Comum\\Inventory.Comum.csproj",
+      "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.Comum\\Inventory.Comum.csproj",
       "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jonathan\\Desktop\\Caraio\\Inventory 5.0\\Inventory.Comum\\obj\\",
+      "outputPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.Comum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

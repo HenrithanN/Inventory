@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qx1S90hNkSeR2EQ6zzi0B43NCBZYBc5oCd3zh6Zx2Hn39/Q9cwPX1JeF3hWrrNfCw4+d7gUXvn4JPyNnUYUobw==",
+  "dgSpecHash": "VhlJhEwCln8jazlvDFBTmkhzrTKjgcwKdivSGb7PCGAfFe/pPctSL6p3lq0dNgqvaGBGR0FUhnd+UN+3riRDFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jonathan\\Desktop\\Caraio\\Inventory 5.0\\Inventory.Dominio\\Inventory.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.Dominio\\Inventory.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

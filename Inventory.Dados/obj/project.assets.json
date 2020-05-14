@@ -5318,11 +5318,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jonathan\\Desktop\\Caraio\\Inventory 5.0\\Inventory.Dados\\Inventory.Dados.csproj",
+      "projectUniqueName": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.Dados\\Inventory.Dados.csproj",
       "projectName": "Inventory.Dados",
-      "projectPath": "C:\\Users\\Jonathan\\Desktop\\Caraio\\Inventory 5.0\\Inventory.Dados\\Inventory.Dados.csproj",
+      "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.Dados\\Inventory.Dados.csproj",
       "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jonathan\\Desktop\\Caraio\\Inventory 5.0\\Inventory.Dados\\obj\\",
+      "outputPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.Dados\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5341,8 +5341,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Jonathan\\Desktop\\Caraio\\Inventory 5.0\\Inventory.Dominio\\Inventory.Dominio.csproj": {
-              "projectPath": "C:\\Users\\Jonathan\\Desktop\\Caraio\\Inventory 5.0\\Inventory.Dominio\\Inventory.Dominio.csproj"
+            "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.Dominio\\Inventory.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.Dominio\\Inventory.Dominio.csproj"
             }
           }
         }

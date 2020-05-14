@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b71Wqn/hmQtVTkb6zVnXmPS3GBzaIDonBvPJMZG5FDBeyGqkPDLUj5zDqQYB0inR2ReurqAnpgaDTmTSyhD63w==",
+  "dgSpecHash": "dy0kE1PGocUN4EVsLqQyk3GlT7MJ47T6xkEi/rZXV/s5CRr9Sh07NlyugYJ5A2dzE7e6sXSGU0v1WDZFr+p8IA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jonathan\\Desktop\\Caraio\\Inventory 5.0\\Inventory.Dados\\Inventory.Dados.csproj",
+  "projectFilePath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.Dados\\Inventory.Dados.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jonathan\\.nuget\\packages\\entityframework\\6.4.0\\entityframework.6.4.0.nupkg.sha512",
     "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
