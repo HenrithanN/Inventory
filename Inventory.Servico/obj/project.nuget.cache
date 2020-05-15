@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LSYFBO7kbugMHWhQZlO8iqm6tD+uCZjP/2ixUuxXq9pmiyQ65vyfs5/oK7s2RHuyHp5eQYZYtxxpMCAoICDjAw==",
+  "dgSpecHash": "sCmbRLoT++eWgIAmZigXniDVZI37lPn/rNO6AAKGzIvL7iuw0ZvE6btD9mBiL5txjZsUf5goTXVwzy+WTJN+tw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.Servico\\Inventory.Servico.csproj",
+  "projectFilePath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory.Servico\\Inventory.Servico.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jonathan\\.nuget\\packages\\entityframework\\6.4.0\\entityframework.6.4.0.nupkg.sha512",
     "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

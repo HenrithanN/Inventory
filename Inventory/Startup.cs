@@ -16,8 +16,6 @@ namespace Inventory
 {
     public class Startup
     {
-        //Habilitando Cors
-        readonly string MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -25,18 +23,12 @@ namespace Inventory
 
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddCors(options =>
+            services.AddCors(options => options.AddPolicy("ApiCorsPolicy", builder =>
             {
-                options.AddPolicy(name: MyAllowSpecificOrigins,
-                                  builder =>
-                                  {
-                                      //Liberando Acesso Da Porta 3000 pra poder consumir a API.
-                                      builder.WithOrigins("http://localhost:3000/");
-                                  });
-            });
+                builder.WithOrigins("http://localhost:3000").AllowAnyMethod().AllowAnyHeader();
+            }));
             services.AddControllers();
             services.AddSwaggerGen(c => {
 
@@ -55,13 +47,17 @@ namespace Inventory
             });
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            // Ativando middlewares para uso do Cors
+            app.UseCors("ApiCorsPolicy");
+
+
 
             // Ativando middlewares para uso do Swagger
             app.UseSwagger();
@@ -72,7 +68,7 @@ namespace Inventory
             app.UseHttpsRedirection();
 
             app.UseRouting();
-            app.UseCors(MyAllowSpecificOrigins);
+
 
             app.UseAuthorization();
 

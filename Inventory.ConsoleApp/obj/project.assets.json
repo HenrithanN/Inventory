@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.ConsoleApp\\Inventory.ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory.ConsoleApp\\Inventory.ConsoleApp.csproj",
       "projectName": "Inventory.ConsoleApp",
-      "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.ConsoleApp\\Inventory.ConsoleApp.csproj",
+      "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory.ConsoleApp\\Inventory.ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

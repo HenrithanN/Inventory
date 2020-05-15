@@ -8900,11 +8900,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory\\Inventory.csproj",
+      "projectUniqueName": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory\\Inventory.csproj",
       "projectName": "Inventory",
-      "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory\\Inventory.csproj",
+      "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory\\Inventory.csproj",
       "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory\\obj\\",
+      "outputPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8923,11 +8923,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.Dominio\\Inventory.Dominio.csproj": {
-              "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.Dominio\\Inventory.Dominio.csproj"
+            "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory.Dominio\\Inventory.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory.Dominio\\Inventory.Dominio.csproj"
             },
-            "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.Servico\\Inventory.Servico.csproj": {
-              "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory.Servico\\Inventory.Servico.csproj"
+            "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory.Servico\\Inventory.Servico.csproj": {
+              "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory.Servico\\Inventory.Servico.csproj"
             }
           }
         }

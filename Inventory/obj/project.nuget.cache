@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z/Sj8pIFcO53sn17TX5P61yWW3Epk5QcTIVdsi7AzHHCL6B0j7g9QRtGuN3X4pze9jh83dNTqeY6de2hPhEasw==",
+  "dgSpecHash": "3PbHwKRpkI4qT4ogbfStxC3GNir0hvPOReuGnymWJ7dcDC1MuN1hDppu2bHdNRS2nkO1VmE124zkX1OWaT1deg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Cors\\Inventory\\Inventory\\Inventory.csproj",
+  "projectFilePath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory\\Inventory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jonathan\\.nuget\\packages\\entityframework\\6.4.0\\entityframework.6.4.0.nupkg.sha512",
     "C:\\Users\\Jonathan\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
