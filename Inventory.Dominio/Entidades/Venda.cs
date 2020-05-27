@@ -17,5 +17,6 @@ namespace Inventory.Dominio
         public float ValorTotal { get; set; }
         public DateTime DataVenda { get; set; }
         public string Descricao { get; set; }
+        public string EnderecoImagem { get; set; }
     }
 }

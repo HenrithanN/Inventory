@@ -29,6 +29,8 @@ namespace Inventory.Dados.Configurações
                 .IsRequired();
             builder.Property(f => f.DataEntrada)
                 .IsRequired();
+            builder.Property(f => f.EnderecoImagem)
+                .IsRequired();
 
 
         }

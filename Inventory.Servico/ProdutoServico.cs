@@ -38,6 +38,9 @@ namespace Inventory.Servico
                 if (entidade.idFornecedor <= 0)
                     notificationResult.Add(new NotificationError("Código Do Fornecedor Inválido!", NotificationErrorType.USER));
 
+                if (string.IsNullOrEmpty(entidade.EnderecoImagem))
+                    notificationResult.Add(new NotificationError("Telefone Inválido", NotificationErrorType.USER));
+
                 if (notificationResult.IsValid)
                 {
                     _produtoRepositorio.Adicionar(entidade);
@@ -114,6 +117,9 @@ namespace Inventory.Servico
 
                 if (entidade.idProduto <= 0)
                     return notificationResult.Add(new NotificationError("Código do Produto Inválido!"));
+
+                if (string.IsNullOrEmpty(entidade.EnderecoImagem))
+                    notificationResult.Add(new NotificationError("Telefone Inválido", NotificationErrorType.USER));
 
                 if (notificationResult.IsValid)
                 {

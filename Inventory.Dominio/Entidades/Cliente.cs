@@ -17,5 +17,6 @@ namespace Inventory.Dominio
         public string Endereco { get; set; }
         public string Email { get; set; }
 
+        public string EnderecoImagem { get; set; }
     }
 }

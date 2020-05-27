@@ -32,6 +32,8 @@ namespace Inventory.Dados.Configurações
                 .IsRequired();
             builder.Property(f => f.Email)
                 .IsRequired();
+            builder.Property(f => f.EnderecoImagem)
+                .IsRequired();
             ;
         }
     }

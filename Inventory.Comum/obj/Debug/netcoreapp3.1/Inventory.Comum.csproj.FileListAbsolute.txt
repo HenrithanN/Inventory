@@ -97,3 +97,12 @@ C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory.Comum\obj\Debug\net
 C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory.Comum\obj\Debug\netcoreapp3.1\Inventory.Comum.AssemblyInfo.cs
 C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory.Comum\obj\Debug\netcoreapp3.1\Inventory.Comum.dll
 C:\Users\Jonathan\Desktop\Inventory_Cors\Inventory\Inventory.Comum\obj\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\Desktop\Inventory_Backend\Inventory\Inventory.Comum\bin\Debug\netcoreapp3.1\Inventory.Comum.deps.json
+C:\Users\Jonathan\Desktop\Inventory_Backend\Inventory\Inventory.Comum\bin\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\Desktop\Inventory_Backend\Inventory\Inventory.Comum\bin\Debug\netcoreapp3.1\Inventory.Comum.pdb
+C:\Users\Jonathan\Desktop\Inventory_Backend\Inventory\Inventory.Comum\obj\Debug\netcoreapp3.1\Inventory.Comum.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Inventory_Backend\Inventory\Inventory.Comum\obj\Debug\netcoreapp3.1\Inventory.Comum.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Inventory_Backend\Inventory\Inventory.Comum\obj\Debug\netcoreapp3.1\Inventory.Comum.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Inventory_Backend\Inventory\Inventory.Comum\obj\Debug\netcoreapp3.1\Inventory.Comum.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Inventory_Backend\Inventory\Inventory.Comum\obj\Debug\netcoreapp3.1\Inventory.Comum.dll
+C:\Users\Jonathan\Desktop\Inventory_Backend\Inventory\Inventory.Comum\obj\Debug\netcoreapp3.1\Inventory.Comum.pdb

@@ -26,6 +26,9 @@ namespace Inventory.Servico
                 if (string.IsNullOrEmpty(entidade.Nome))
                     notificationResult.Add(new NotificationError("Nome do Produto Inválido"));
 
+                if (string.IsNullOrEmpty(entidade.EnderecoImagem))
+                    notificationResult.Add(new NotificationError("Telefone Inválido", NotificationErrorType.USER));
+
                 if (notificationResult.IsValid)
                 {
 
@@ -98,6 +101,9 @@ namespace Inventory.Servico
 
                 if (entidade.idEstoque <= 0)
                     return notificationResult.Add(new NotificationError("Código do Cliente Inválido!"));
+
+                if (string.IsNullOrEmpty(entidade.EnderecoImagem))
+                    notificationResult.Add(new NotificationError("Telefone Inválido", NotificationErrorType.USER));
 
                 if (notificationResult.IsValid)
                 {

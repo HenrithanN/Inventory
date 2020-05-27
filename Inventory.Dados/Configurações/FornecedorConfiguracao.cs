@@ -25,6 +25,8 @@ namespace Inventory.Dados.Configurações
             builder.Property(f => f.CNPJ)
                 .IsRequired()
                 .HasMaxLength(14);
+            builder.Property(f => f.EnderecoImagem)
+                .IsRequired();
         }
     }
 }

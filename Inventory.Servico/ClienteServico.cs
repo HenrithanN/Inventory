@@ -41,6 +41,9 @@ namespace Inventory.Servico
                 if (string.IsNullOrEmpty(entidade.RG))
                     notificationResult.Add(new NotificationError("RG Inválido", NotificationErrorType.USER));
 
+                if (string.IsNullOrEmpty(entidade.EnderecoImagem))
+                    notificationResult.Add(new NotificationError("Telefone Inválido", NotificationErrorType.USER));
+
                 if (notificationResult.IsValid)
                 {
 
@@ -122,6 +125,8 @@ namespace Inventory.Servico
                 if (string.IsNullOrEmpty(entidade.RG))
                     notificationResult.Add(new NotificationError("RG Inválido", NotificationErrorType.USER));
 
+                if (string.IsNullOrEmpty(entidade.EnderecoImagem))
+                    notificationResult.Add(new NotificationError("Telefone Inválido", NotificationErrorType.USER));
 
                 if (notificationResult.IsValid)
                 {

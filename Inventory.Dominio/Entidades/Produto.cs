@@ -14,6 +14,7 @@ namespace Inventory.Dominio
         public string Nome { get; set; }
         public DateTime Validade { get; set; }
         public DateTime DataEntrada { get; set; }
+        public string EnderecoImagem { get; set; }
 
     }
 }

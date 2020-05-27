@@ -11,5 +11,7 @@ namespace Inventory.Dominio
         public int idEstoque { get; set; }
         public int Quantidade { get; set; }
         public string Nome { get; set; }
+
+        public string EnderecoImagem { get; set; }
     }
 }

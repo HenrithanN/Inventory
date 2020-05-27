@@ -35,6 +35,9 @@ namespace Inventory.Servico
                 if (CNPJUtil.ValidarCNPJ(entidade.CNPJ) == false)
                     notificationResult.Add(new NotificationError("CNPJ Do Vendedor Inválido", NotificationErrorType.USER));
 
+                if (string.IsNullOrEmpty(entidade.EnderecoImagem))
+                    notificationResult.Add(new NotificationError("Telefone Inválido", NotificationErrorType.USER));
+
                 if (notificationResult.IsValid)
                 {
                     _vendedorRepositorio.Adicionar(entidade);

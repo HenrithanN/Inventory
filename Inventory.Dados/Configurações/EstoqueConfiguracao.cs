@@ -20,6 +20,8 @@ namespace Inventory.Dados.Configurações
             builder.Property(f => f.Nome)
                 .HasColumnName("NomeProduto")
                 .IsRequired();
+            builder.Property(f => f.EnderecoImagem)
+                .IsRequired();
         }
     }
 }

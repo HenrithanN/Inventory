@@ -30,6 +30,8 @@ namespace Inventory.Dados.Configurações
                 .HasMaxLength(150);                 //Tamanho Maximo 150 Caracteres
             builder.Property(f => f.ValorTotal)
                 .IsRequired();
+            builder.Property(f => f.EnderecoImagem)
+                .IsRequired();
 
         }
        
