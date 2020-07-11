@@ -36,7 +36,7 @@ namespace Inventory.Servico
                     notificationResult.Add(new NotificationError("CNPJ Do Vendedor Inválido", NotificationErrorType.USER));
 
                 if (string.IsNullOrEmpty(entidade.EnderecoImagem))
-                    notificationResult.Add(new NotificationError("Telefone Inválido", NotificationErrorType.USER));
+                    notificationResult.Add(new NotificationError("URL da Imagem Inválida ou Não Suportada!", NotificationErrorType.USER));
 
                 if (notificationResult.IsValid)
                 {
@@ -79,6 +79,9 @@ namespace Inventory.Servico
 
                 if (entidade.idVendedor <= 0)
                     return notificationResult.Add(new NotificationError("Código do Vendedor Inválido!"));
+
+                if (string.IsNullOrEmpty(entidade.EnderecoImagem))
+                    notificationResult.Add(new NotificationError("URL da Imagem Inválida ou Não Suportada!", NotificationErrorType.USER));
 
                 if (notificationResult.IsValid)
                 {

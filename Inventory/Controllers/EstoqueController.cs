@@ -24,6 +24,17 @@ namespace Inventory.Controllers
         {
             return estoqueServico.ListarTodosComEstoqueZerado();
         }
+        [HttpGet("estoque-acabando")]
+        public IEnumerable<Estoque> ListarEstoqueAcabando()
+        {
+            return estoqueServico.ListarEstoqueAcabando();
+        }
+
+        [HttpGet("em-ordem")]
+        public IEnumerable<Estoque> EmOrdem()
+        {
+            return estoqueServico.EmOrdem();
+        }
 
         [HttpGet("listar-estoque")]
         public IEnumerable<Estoque> ListarEstoque() => estoqueServico.ListarEstoque();

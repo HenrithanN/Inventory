@@ -21,5 +21,18 @@ namespace Inventory.Dados
                 .Estoque
                 .Where(f => f.idEstoque > 0);
         }
+        public IEnumerable<Estoque> ListarEstoqueAcabando()
+        {
+            return Contexto
+                .Estoque
+                .Where(f => f.Quantidade <= 15 && f.Quantidade > 0);
+        }
+        public IEnumerable<Estoque> EmOrdem()
+        {
+            return Contexto
+                .Estoque
+                .Where(f => f.Quantidade <= 15)
+                .OrderBy(f => f.Nome);
+        }
     }
 }

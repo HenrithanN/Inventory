@@ -50,9 +50,17 @@ namespace Inventory.Servico
         {
             return _estoqueRepositorio.ListarEstoque();
         }
+        public IEnumerable<Estoque> ListarEstoqueAcabando()
+        {
+            return _estoqueRepositorio.ListarEstoqueAcabando();
+        }
         public IEnumerable<Estoque> ListarTodosComEstoqueZerado()
         {
             return _estoqueRepositorio.ListarTodosComEstoqueZerado();
+        }
+        public IEnumerable<Estoque> EmOrdem()
+        {
+            return _estoqueRepositorio.EmOrdem();
         }
 
         public Estoque ListarUm(int idEstoque)

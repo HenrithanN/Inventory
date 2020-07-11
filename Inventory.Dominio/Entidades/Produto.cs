@@ -8,13 +8,12 @@ namespace Inventory.Dominio
     {
         [Key]
         public int idProduto { get; set; }
-        public int idFornecedor { get; set; }
-        public int idEstoque { get; set; }
         public float Valor { get; set; }
         public string Nome { get; set; }
         public DateTime Validade { get; set; }
         public DateTime DataEntrada { get; set; }
         public string EnderecoImagem { get; set; }
+        public int Quantidade { get; set; }
 
     }
 }

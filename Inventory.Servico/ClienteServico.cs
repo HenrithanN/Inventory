@@ -42,7 +42,7 @@ namespace Inventory.Servico
                     notificationResult.Add(new NotificationError("RG Inválido", NotificationErrorType.USER));
 
                 if (string.IsNullOrEmpty(entidade.EnderecoImagem))
-                    notificationResult.Add(new NotificationError("Telefone Inválido", NotificationErrorType.USER));
+                    notificationResult.Add(new NotificationError("URL de Imagem Inválida!", NotificationErrorType.USER));
 
                 if (notificationResult.IsValid)
                 {
@@ -60,10 +60,8 @@ namespace Inventory.Servico
                 return notificationResult.Add(new NotificationError(ex.Message));
             }
         }
-        public Cliente ListarUm(int idCliente)
-        {
-            return _clienteRepositorio.ListarUm(idCliente);
-        }
+        public Cliente ListarUm(int idCliente) =>_clienteRepositorio.ListarUm(idCliente);
+        
 
         public NotificationResult Excluir(int idCliente)
         {

@@ -22,6 +22,16 @@ namespace Inventory.Controllers
         [HttpGet("listar-todos")]
         public IEnumerable<Produto> ListarProdutos() => produtoServico.ListarProdutos();
 
+        [HttpGet("produtos-vencidos")]
+        public IEnumerable<Produto> ProdutosVencidos() => produtoServico.ProdutosVencidos();
+
+        [HttpGet("produtos-vencendo")]
+        public IEnumerable<Produto> ProdutosVencendo() => produtoServico.ProdutosVencendo();
+        [HttpGet("produtos-acabando")]
+        public IEnumerable<Produto> ProdutosAcabando() => produtoServico.ProdutosAcabando();
+        [HttpGet("estoque-zerado")]
+        public IEnumerable<Produto> EstoqueZerado() => produtoServico.EstoqueZerado();
+
         [HttpGet("listar-um")]
         public Produto ListarUm(int idProduto) => produtoServico.ListarUm(idProduto);
 

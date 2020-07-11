@@ -44,7 +44,7 @@ namespace Inventory.Servico
                     notificationResult.Add(new NotificationError("Descrição de Venda Inválida!", NotificationErrorType.USER));
 
                 if (string.IsNullOrEmpty(entidade.EnderecoImagem))
-                    notificationResult.Add(new NotificationError("Telefone Inválido", NotificationErrorType.USER));
+                    notificationResult.Add(new NotificationError("URL da Imagem Inválida ou Não Suportada!", NotificationErrorType.USER));
 
                 if (notificationResult.IsValid)
                 {
@@ -95,7 +95,7 @@ namespace Inventory.Servico
                     return notificationResult.Add(new NotificationError("Código da Venda Inválido!"));
 
                 if (string.IsNullOrEmpty(entidade.EnderecoImagem))
-                    notificationResult.Add(new NotificationError("Telefone Inválido", NotificationErrorType.USER));
+                    notificationResult.Add(new NotificationError("URL da Imagem Inválida ou Não Suportada!", NotificationErrorType.USER));
 
                 if (notificationResult.IsValid)
                 {

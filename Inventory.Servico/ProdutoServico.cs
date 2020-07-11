@@ -26,20 +26,17 @@ namespace Inventory.Servico
                 if (entidade.Valor <= 0)
                     notificationResult.Add(new NotificationError("Valor Do Produto Inválido!", NotificationErrorType.USER));
                 
-                if (entidade.Validade < DateTime.Now)
+                if (entidade.Validade < DateTime.Today)
                     notificationResult.Add(new NotificationError("Produto Está Vencido!", NotificationErrorType.USER));
 
                 if (string.IsNullOrEmpty(entidade.Nome))
                     notificationResult.Add(new NotificationError("Nome Do Produto Inválido", NotificationErrorType.USER));
 
-                if (entidade.idEstoque <= 0)
-                    notificationResult.Add(new NotificationError("Código Do Estoque Inválido!", NotificationErrorType.USER));
-                                
-                if (entidade.idFornecedor <= 0)
-                    notificationResult.Add(new NotificationError("Código Do Fornecedor Inválido!", NotificationErrorType.USER));
-
+                if (entidade.Quantidade <= 0)
+                    notificationResult.Add(new NotificationError("Quantidade Inválida de Produtos!", NotificationErrorType.USER));
+                     
                 if (string.IsNullOrEmpty(entidade.EnderecoImagem))
-                    notificationResult.Add(new NotificationError("Telefone Inválido", NotificationErrorType.USER));
+                    notificationResult.Add(new NotificationError("URL da Imagem Inválida ou Não Suportada!", NotificationErrorType.USER));
 
                 if (notificationResult.IsValid)
                 {
@@ -94,6 +91,22 @@ namespace Inventory.Servico
         {
             return _produtoRepositorio.ListarProdutos();
         }
+        public IEnumerable<Produto> ProdutosVencidos()
+        {
+            return _produtoRepositorio.ProdutosVencidos();
+        }
+        public IEnumerable<Produto> ProdutosVencendo()
+        {
+            return _produtoRepositorio.ProdutosVencendo();
+        }
+        public IEnumerable<Produto> ProdutosAcabando()
+        {
+            return _produtoRepositorio.ProdutosAcabando();
+        }
+        public IEnumerable<Produto> EstoqueZerado()
+        {
+            return _produtoRepositorio.EstoqueZerado();
+        }
         public NotificationResult Atualizar(Produto entidade)
         {
             var notificationResult = new NotificationResult();
@@ -109,17 +122,14 @@ namespace Inventory.Servico
                 if (string.IsNullOrEmpty(entidade.Nome))
                     notificationResult.Add(new NotificationError("Nome Do Produto Inválido", NotificationErrorType.USER));
 
-                if (entidade.idEstoque <= 0)
-                    notificationResult.Add(new NotificationError("Código Do Estoque Inválido!", NotificationErrorType.USER));
-
-                if (entidade.idFornecedor <= 0)
-                    notificationResult.Add(new NotificationError("Código Do Fornecedor Inválido!", NotificationErrorType.USER));
+                if (entidade.Quantidade <= 0)
+                    notificationResult.Add(new NotificationError("Quantidade de Produtos Inválida!", NotificationErrorType.USER));
 
                 if (entidade.idProduto <= 0)
                     return notificationResult.Add(new NotificationError("Código do Produto Inválido!"));
 
                 if (string.IsNullOrEmpty(entidade.EnderecoImagem))
-                    notificationResult.Add(new NotificationError("Telefone Inválido", NotificationErrorType.USER));
+                    notificationResult.Add(new NotificationError("URL da Imagem Inválida ou Não Suportada!", NotificationErrorType.USER));
 
                 if (notificationResult.IsValid)
                 {
