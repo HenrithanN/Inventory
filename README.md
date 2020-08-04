@@ -2,12 +2,12 @@
 Projeto desenvolvido no Curso de Sistemas de Informação.
 WebApi para Controle de Estoque.
 
-#Ferramentas utilizadas
+# Ferramentas utilizadas
 SQL Server 2016
 dotnet core 3.1
 EF core
 
-#Padrões Implantados
+# Padrões Implantados
 Repository Pattern (OK)
 Notification Pattern (OK)
 CrossCutting (OK)
