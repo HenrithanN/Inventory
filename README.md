@@ -6,6 +6,8 @@
 <ul>SQL Server 2016</ul>
 <ul>dotnet core 3.1</ul>
 <ul>EF core</ul>
+<ul>C#</ul>
+<ul>React + Material UI</ul>
 
 # Padrões Implantados
 <ul>Repository Pattern (OK)</ul>
