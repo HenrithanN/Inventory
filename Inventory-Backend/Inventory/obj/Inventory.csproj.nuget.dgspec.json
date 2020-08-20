@@ -1,0 +1,343 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory\\Inventory.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Comum\\Inventory.Comum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Comum\\Inventory.Comum.csproj",
+        "projectName": "Inventory.Comum",
+        "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Comum\\Inventory.Comum.csproj",
+        "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Comum\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Dados\\Inventory.Dados.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Dados\\Inventory.Dados.csproj",
+        "projectName": "Inventory.Dados",
+        "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Dados\\Inventory.Dados.csproj",
+        "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Dados\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Dominio\\Inventory.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Dominio\\Inventory.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Dominio\\Inventory.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Dominio\\Inventory.Dominio.csproj",
+        "projectName": "Inventory.Dominio",
+        "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Dominio\\Inventory.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Comum\\Inventory.Comum.csproj": {
+                "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Comum\\Inventory.Comum.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Servico\\Inventory.Servico.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Servico\\Inventory.Servico.csproj",
+        "projectName": "Inventory.Servico",
+        "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Servico\\Inventory.Servico.csproj",
+        "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Servico\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Comum\\Inventory.Comum.csproj": {
+                "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Comum\\Inventory.Comum.csproj"
+              },
+              "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Dados\\Inventory.Dados.csproj": {
+                "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Dados\\Inventory.Dados.csproj"
+              },
+              "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Dominio\\Inventory.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Dominio\\Inventory.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory\\Inventory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory\\Inventory.csproj",
+        "projectName": "Inventory",
+        "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory\\Inventory.csproj",
+        "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Dominio\\Inventory.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Dominio\\Inventory.Dominio.csproj"
+              },
+              "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Servico\\Inventory.Servico.csproj": {
+                "projectPath": "C:\\Users\\Jonathan\\Desktop\\Inventory_Backend\\Inventory\\Inventory-Backend\\Inventory.Servico\\Inventory.Servico.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
